@@ -1,2 +1,2 @@
 # CoreMSG
-A Phyton wrapper for messenger.com
+A Phyton class for messenger.com
