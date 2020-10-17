@@ -1,2 +1,2 @@
 # CoreMSG
-A Phyton class for messenger.com
+A Python class for messenger.com
